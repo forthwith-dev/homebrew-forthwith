@@ -1,6 +1,6 @@
 # homebrew-forthwith
 
-Homebrew tap for the Forthwith CLI — the translation automation tool for mobile and web frameworks.
+Homebrew tap for the [Forthwith CLI](https://forthwith.dev) — the translation automation tool for mobile and web frameworks.
 
 ## Prerequisites
 
@@ -31,4 +31,4 @@ brew untap forthwith-dev/forthwith
 
 This tap is maintained by forthwith-dev. The formula in this repository is automatically updated by the release pipeline when a new version of Forthwith CLI is published.
 
-For issues with the CLI itself, please refer to the Forthwith CLI documentation.
+For issues with the CLI itself, please refer to the [Forthwith CLI documentation](https://forthwith.dev/docs).
