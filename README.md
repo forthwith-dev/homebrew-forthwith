@@ -9,7 +9,7 @@ You need a Forthwith account to use this CLI. [Sign up at forthwith.dev](https:/
 ## Usage
 
 ```bash
-brew tap forthwith-dev/forthwith
+brew tap Forthwith-LLC/forthwith
 brew install forthwith
 ```
 
@@ -24,11 +24,11 @@ brew upgrade forthwith
 
 ```bash
 brew uninstall forthwith
-brew untap forthwith-dev/forthwith
+brew untap Forthwith-LLC/forthwith
 ```
 
 ## About
 
-This tap is maintained by forthwith-dev. The formula in this repository is automatically updated by the release pipeline when a new version of Forthwith CLI is published.
+This tap is maintained by Forthwith-LLC. The formula in this repository is automatically updated by the release pipeline when a new version of Forthwith CLI is published.
 
 For issues with the CLI itself, please refer to the [Forthwith CLI documentation](https://forthwith.dev/docs).
