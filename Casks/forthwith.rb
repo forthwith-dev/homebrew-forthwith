@@ -16,6 +16,5 @@ cask "forthwith" do
   name "Forthwith CLI"
   desc "Forthwith CLI - manage your Forthwith resources from the command line"
   homepage "https://github.com/Forthwith-LLC/forthwith-cli"
-
   uninstall pkgutil: "com.forthwith.cli"
 end
